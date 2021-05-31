@@ -1,0 +1,9 @@
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\allan\Desktop\API Completa\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.pdb
